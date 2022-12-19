@@ -24,12 +24,7 @@
 </p>
 
 <p align="left">
-   <b>Frameworks / Libs:</b> <strong>React, Next.js, Bootstrap, Styled-Components, Tailwind Css e Particles js, React Three Fiber</strong>
-</p>
-
-
-<p align="left">
    Para mais informações visite meu website <a href="https://ssik824.vercel.app/" rel="noreferrer" target="_blank"> clicando aqui</a> !
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-kiss&theme=violet-dark&locale=pt-br&background=DD272700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victor-kiss&theme=shades-of-purple&mode=weekly)](https://git.io/streak-stats)
