@@ -1,4 +1,4 @@
-<img src="./image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="ssik">
+<img src="./ssik824.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ssik">
 
 ## :sparkles: Sobre Mim:
 
@@ -27,4 +27,4 @@
    Para mais informações visite meu website <a href="https://ssik824.vercel.app/" rel="noreferrer" target="_blank"> clicando aqui</a> !
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victor-kiss&theme=shades-of-purple&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=victor-kiss&theme=dracula)](https://git.io/streak-stats)
