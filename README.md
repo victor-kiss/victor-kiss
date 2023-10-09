@@ -1,12 +1,12 @@
 <img src="./ssik824.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ssik">
 
-## :sparkles: Sobre Mim:
+## Sobre Mim:
 
 <p align="left">
    Olá, me chamo Victor Kiss, mas pode me chamar de ssik! Sou desenvolvedor web, ui / ux e um apaixonado por tecnologia! Crio projetos desde html, css e js até projetos mais completos com React.js, Next.js styled-components dentre outras tecnologias.
 </p>
 
-## :computer:  Skills: 
+## Skills: 
 <p align="left">
    <b>Linguagens:</b> <strong>JavaScript (Node js), PHP e Python </strong>
 </p>
