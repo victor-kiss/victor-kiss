@@ -8,7 +8,7 @@
 
 ## :computer:  Skills: 
 <p align="left">
-   <b>Linguagens:</b> <strong>JavaScript (Node js) e Python </strong>
+   <b>Linguagens:</b> <strong>JavaScript (Node js), PHP e Python </strong>
 </p>
 
 <p align="left">
@@ -20,11 +20,11 @@
 </p>
 
 <p align="left">
-   <b>Ferramentas:</b> <strong>Visual Studio Code, Vercel Deployment, Canva, Adobe Photoshop Express, Google Analytics, Google Search Console, Git, GitHub.</strong>
+   <b>Ferramentas:</b> <strong>Visual Studio Code, Vercel Deployment, Google Analytics, Google Search Console, Git, GitHub.</strong>
 </p>
 
 <p align="left">
-   Para mais informações visite meu website <a href="https://ssik824.vercel.app/" rel="noreferrer" target="_blank"> clicando aqui</a> !
+   Para posts relacionados a programação e mais informações sobre mim, visite meu website <a href="https://devssik.com.br" rel="noreferrer" target="_blank"> clicando aqui</a> !
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=victor-kiss&theme=dracula)](https://git.io/streak-stats)
