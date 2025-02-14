@@ -9,4 +9,3 @@ Olá! Sou Victor Kiss, um desenvolvedor front-end apaixonado por criar layouts e
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kiss&layout=compact&theme=dracula)
 
 &nbsp;
-![GitHub Streak](https://streak-stats.demolab.com?user=victor-kiss&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
