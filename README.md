@@ -10,4 +10,4 @@ Olá! Sou Victor Kiss, um desenvolvedor front-end apaixonado por criar layouts e
 
 &nbsp;
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=victor-kiss&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=victor-kiss&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
