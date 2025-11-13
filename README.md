@@ -1,5 +1,5 @@
 
-<h2>💻 Victor Kiss: Desenvolvedor Front-end </h2>
+<h2>💻 Victor Kiss: Desenvolvedor de Software</h2>
 
 <h2>🌟 Sobre Mim</h2>
 
