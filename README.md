@@ -1,17 +1,63 @@
+# 💻 Victor Kiss | Front-end Developer & UI/UX Specialist
+### Transformando designs complexos em interfaces performáticas e escaláveis.
 
-<h2>💻 Victor Kiss: Desenvolvedor de Software</h2>
+---
 
-<h2>🌟 Sobre Mim</h2>
+## 🌟 Perfil Profissional
 
-Desenvolvedor front-end apaixonado por criar layouts e programar interfaces interativas. Tenho experiência sólida em JavaScript, HTML e CSS, e sou especializado em frameworks como React, Next.js e Tailwind CSS. Com habilidades em outras bibliotecas e tecnologias front-end, estou sempre em busca de novos desafios para aprimorar minhas habilidades. Seja bem-vindo ao meu GitHub !
+Desenvolvedor Front-end especializado na construção de interfaces de alta fidelidade e sistemas escaláveis. Atualmente, impacto a eficiência operacional da Secretaria Municipal de Urbanismo e Licenciamento (SMUL) através do desenvolvimento de soluções em TypeScript e Next.js, criando ferramentas de automação e data scraping que otimizam fluxos institucionais críticos.
 
+Com sólida proficiência no ecossistema moderno de desenvolvimento (React 18+, Next.js App Router e Tailwind CSS), foco na entrega de produtos que equilibram performance técnica (Web Vitals) com experiências de usuário imersivas. Minha expertise abrange desde a implementação de interfaces animadas complexas com Framer Motion e GSAP até a arquitetura de ferramentas de produtividade como a <b>UrbSync</b>, sempre priorizando um software tecnicamente robusto e visualmente impecável.
 
-<h2 align="left">👾 Conhecimentos:</h2>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Stack Técnica & Ecossistema
 
-<h2>Outras redes sociais</h2>
+- **Core:** React 18+, Next.js 14 (App Router), TypeScript.
+- **Styling & UI:** Tailwind CSS, Styled Components, Framer Motion, GSAP (animações complexas).
+- **Backend & Tooling:** Node.js, Python (Automação/Scraping), PostgreSQL, Git/GitHub.
+- **Environment:** Desenvolvimento nativo em **Linux Mint**.
+
+---
+
+## 🚀 Projetos de Engenharia em Destaque
+
+### [UrbSync](https://github.com/smdu-sp/extensao) | *Browser Automation*
+> **Problema:** Fragmentação de dados em sistemas municipais (SEI, Aprova, SLCE).  
+> **Solução:** Desenvolvi uma extensão que centraliza a raspagem de dados e automatiza o preenchimento de planilhas e fluxos.
+- **Impacto:** Adotado oficialmente pela SMUL para otimização de tempo da equipe técnica.
+- **Techs:** JavaScript (DOM Manipulation), Chrome Extension API, JSON.
+
+### [Monster Pipeline Punch 3D](https://github.com/victor-kiss/monster-pipeline-punch-3d) | *Storytelling & Performance*
+- **Desafio:** Implementar uma interface 3D imersiva sem comprometer o Web Vitals (LCP/FID).
+- **Foco:** Otimização de assets e renderização condicional.
+- **Techs:** React, Framer Motion, Three.js/R3F.
+
+### [Macintosh 128k](https://github.com/victor-kiss/Macintosh-128K-Experience) | *Retro-UI Rebirth*
+- **Conceito:** Recriação fiel do OS de 1984 usando padrões de componentes modernos e estados complexos de UI.
+- **Techs:** Next.js, TypeScript, Tailwind.
+
+### [Amor em Código](https://github.com/victor-kiss/amor-em-codigo) | *UX Afetiva & Open Source*
+- **Descrição:** Plataforma interativa personalizada com foco em animações de entrada e transições de página fluidas.
+
+---
+
+## 📊 Performance & Atividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-kiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kiss&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Conecte-se comigo
+
 <p align="left">
-<a href="https://codepen.io/victor-kiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="victor-kiss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/victor-kiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor kiss" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/victor-kiss" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/victor-kiss" target="blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
 </p>
