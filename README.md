@@ -23,7 +23,7 @@ Com sólida proficiência no ecossistema moderno de desenvolvimento (React 18+, 
 ## 🚀 Projetos de Engenharia em Destaque
 
 ### [UrbSync](https://github.com/smdu-sp/extensao) | *Browser Automation*
-> **Problema:** Fragmentação de dados em sistemas municipais (SEI, Aprova, SLCE).  
+> **Problema:** Fragmentação de dados em sistemas municipais (SEI e Aprova Digital).  
 > **Solução:** Desenvolvi uma extensão que centraliza a raspagem de dados e automatiza o preenchimento de planilhas e fluxos.
 - **Impacto:** Adotado oficialmente pela SMUL para otimização de tempo da equipe técnica.
 - **Techs:** JavaScript (DOM Manipulation), Chrome Extension API, JSON.
