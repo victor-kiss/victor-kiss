@@ -45,7 +45,7 @@ Com domínio do ecossistema moderno (React 18+, Next.js App Router e Tailwind CS
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-kiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kiss&layout=compact&theme=tokyonight&hide_langs=tcl />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kiss&layout=compact&theme=tokyonight&hide_langs=tcl" />
 </div>
 
 ---
