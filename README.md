@@ -1,43 +1,48 @@
-# 💻 Victor Kiss | Software Engineer & UI Specialist
+# 💻 Victor Kiss | Software Engineer & Security Enthusiast
 
 ---
 
 ## 🌟 Perfil Profissional
 
-Sou um Software Engineer focado na interseção entre design impecável e engenharia de soluções eficientes. Atualmente, atuo na Secretaria Municipal de Urbanismo e Licenciamento (SMUL), onde transformo fluxos governamentais complexos em sistemas ágeis. Minha atuação vai além do visual: desenvolvo ferramentas de automação e data scraping em TypeScript e Python que otimizam processos institucionais críticos.
+Sou um **Software Engineer** focado na interseção entre design de alta fidelidade e engenharia de sistemas resilientes. Atualmente, na **Secretaria Municipal de Urbanismo e Licenciamento (SMUL)**, atuo na vanguarda da modernização digital, transformando fluxos governamentais complexos em arquiteturas ágeis e seguras.
 
-Com domínio do ecossistema moderno (React 18+, Next.js App Router e Tailwind CSS), projeto arquiteturas que equilibram métricas de performance rigorosas (Web Vitals) com experiências imersivas. Minha expertise transita entre a fluidez de interfaces animadas com Framer Motion/GSAP e a robustez técnica de ferramentas de produtividade como a UrbSync, sempre priorizando código escalável, seguro e visualmente impactante.
+Minha abordagem une a fluidez do ecossistema **JavaScript (React 18+ & Next.js)** com a robustez da **Segurança Ofensiva** e **Automação com Python**. Desenvolvo ferramentas de *data scraping* e automação de processos que otimizam operações institucionais críticas, sempre priorizando a integridade dos dados e métricas rigorosas de performance (**Core Web Vitals**).
 
 ---
 
 ## 🛠️ Stack Técnica & Ecossistema
 
-- **Core:** React 18+, Next.js 14 (App Router), TypeScript.
-- **Styling & UI:** Tailwind CSS, Styled Components, Framer Motion, GSAP (animações complexas).
-- **Backend & Tooling:** Node.js, Python (Automação/Scraping), PostgreSQL, Git/GitHub.
-- **Environment:** Desenvolvimento nativo em **Linux Mint**.
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Core Front-end** | Next.js 14 (App Router), React 18, TypeScript, JavaScript (ES6+) |
+| **Styling & Animation** | Tailwind CSS, Framer Motion, GSAP (Complex Animations), Styled Components |
+| **Security & Automation** | **Offensive Security (AppSec)**, Python (Scripts & Scraping), Web Security Auditing |
+| **Backend & Infra** | Node.js, PostgreSQL, Git/GitHub, Vercel, CI/CD Pipelines |
+| **Environment** | Desenvolvimento nativo em **Linux Mint** 🐧 |
 
 ---
 
 ## 🚀 Projetos de Engenharia em Destaque
 
-### [UrbSync](https://github.com/smdu-sp/extensao) | *Browser Automation*
-> **Problema:** Fragmentação de dados em sistemas municipais (SEI e Aprova Digital).  
-> **Solução:** Desenvolvi uma extensão que centraliza a raspagem de dados e automatiza o preenchimento de planilhas e fluxos.
-- **Impacto:** Adotado oficialmente pela SMUL para otimização de tempo da equipe técnica.
-- **Techs:** JavaScript (DOM Manipulation), Chrome Extension API, JSON.
+### 🛠️ [UrbSync](https://github.com/smdu-sp/extensao) | *Browser Automation & Security*
+> **Engenharia:** Desenvolvi um motor de orquestração e raspagem de dados para sistemas municipais (SEI e Aprova Digital).
+- **Desafio:** Centralizar dados fragmentados garantindo a segurança da sessão e integridade das informações.
+- **Impacto:** Adotado oficialmente pela SMUL; redução drástica de *human-error* e latência operacional.
+- **Techs:** JavaScript (DOM Manipulation), Chrome Extension API, JSON, Security Best Practices.
 
-### [Monster Pipeline Punch 3D](https://github.com/victor-kiss/monster-pipeline-punch-3d) | *Storytelling & Performance*
-- **Desafio:** Implementar uma interface 3D imersiva sem comprometer o Web Vitals (LCP/FID).
-- **Foco:** Otimização de assets e renderização condicional.
-- **Techs:** React, Framer Motion, Three.js/R3F.
+### 🧪 [Monster Pipeline Punch 3D](https://github.com/victor-kiss/monster-pipeline-punch-3d) | *High-Fidelity Engineering*
+- **Foco:** Renderização de alta performance e storytelling imersivo.
+- **Diferencial:** Otimização de assets 3D para manter o LCP (Largest Contentful Paint) abaixo de 2.5s.
+- **Techs:** React, React Three Fiber (Three.js), Framer Motion, GLSL Shaders.
 
-### [Macintosh 128k](https://github.com/victor-kiss/Macintosh-128K-Experience) | *Retro-UI Rebirth*
-- **Conceito:** Recriação fiel do OS de 1984 usando padrões de componentes modernos e estados complexos de UI.
-- **Techs:** Next.js, TypeScript, Tailwind.
+### 💾 [Macintosh 128k](https://github.com/victor-kiss/Macintosh-128K-Experience) | *Retro-UI Systems*
+- **Conceito:** Engenharia reversa visual do System 1 (1984) utilizando arquitetura de componentes modernos.
+- **Foco:** Gerenciamento de estados complexos e fidelidade de interface (Pixel Perfect).
+- **Techs:** Next.js, TypeScript, Tailwind CSS.
 
-### [Amor em Código](https://github.com/victor-kiss/amor-em-codigo) | *UX Afetiva & Open Source*
-- **Descrição:** Plataforma interativa personalizada com foco em animações de entrada e transições de página fluidas.
+### 🛡️ Security Labs | *Research & Offensive Mindset*
+- Pesquisa ativa em **Application Security (AppSec)** e auditoria de vulnerabilidades.
+- Desenvolvimento de scripts em **Python** para reconhecimento e automação de tarefas de segurança.
 
 ---
 
