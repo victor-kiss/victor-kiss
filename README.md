@@ -1,13 +1,12 @@
-# 💻 Victor Kiss | Front-end Developer & UI/UX Specialist
-### Transformando designs complexos em interfaces performáticas e escaláveis.
+# 💻 Victor Kiss | Software Engineer & UI Specialist
 
 ---
 
 ## 🌟 Perfil Profissional
 
-Desenvolvedor Front-end especializado na construção de interfaces de alta fidelidade e sistemas escaláveis. Atualmente, impacto a eficiência operacional da Secretaria Municipal de Urbanismo e Licenciamento (SMUL) através do desenvolvimento de soluções em TypeScript e Next.js, criando ferramentas de automação e data scraping que otimizam fluxos institucionais críticos.
+Sou um Software Engineer focado na interseção entre design impecável e engenharia de soluções eficientes. Atualmente, atuo na Secretaria Municipal de Urbanismo e Licenciamento (SMUL), onde transformo fluxos governamentais complexos em sistemas ágeis. Minha atuação vai além do visual: desenvolvo ferramentas de automação e data scraping em TypeScript e Python que otimizam processos institucionais críticos.
 
-Com sólida proficiência no ecossistema moderno de desenvolvimento (React 18+, Next.js App Router e Tailwind CSS), foco na entrega de produtos que equilibram performance técnica (Web Vitals) com experiências de usuário imersivas. Minha expertise abrange desde a implementação de interfaces animadas complexas com Framer Motion e GSAP até a arquitetura de ferramentas de produtividade como a <b>UrbSync</b>, sempre priorizando um software tecnicamente robusto e visualmente impecável.
+Com domínio do ecossistema moderno (React 18+, Next.js App Router e Tailwind CSS), projeto arquiteturas que equilibram métricas de performance rigorosas (Web Vitals) com experiências imersivas. Minha expertise transita entre a fluidez de interfaces animadas com Framer Motion/GSAP e a robustez técnica de ferramentas de produtividade como a UrbSync, sempre priorizando código escalável, seguro e visualmente impactante.
 
 ---
 
