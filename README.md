@@ -17,7 +17,7 @@ Minha abordagem une a fluidez do ecossistema **JavaScript (React 18+ & Next.js)*
 | **Core Front-end** | Next.js 14 (App Router), React 18, TypeScript, JavaScript (ES6+) |
 | **Styling & Animation** | Tailwind CSS, Framer Motion, GSAP (Complex Animations), Styled Components |
 | **Security & Automation** | **Offensive Security (AppSec)**, Python (Scripts & Scraping), Web Security Auditing |
-| **Backend & Infra** | Node.js, PostgreSQL, Git/GitHub, Vercel, CI/CD Pipelines |
+| **Backend & Infra** | Node.js, PostgreSQL, Golang, Git/GitHub, Vercel, CI/CD Pipelines |
 | **Environment** | Desenvolvimento nativo em **Linux Mint** 🐧 |
 
 ---
