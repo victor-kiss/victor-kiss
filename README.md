@@ -49,9 +49,9 @@ Minha abordagem une a fluidez do ecossistema **JavaScript (React 18+ & Next.js)*
 ## 📊 Performance & Atividade
 
 <div align="center">
-  </span><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=victor-kiss&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </span><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gumeeee&langs_count=8&layout=compact&theme=react&border_color=bf80ff&bg_color=1a1526&title_color=a763ff&icon_color=fff530" height="192px" width="49.5%"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-kiss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=victor-kiss&theme=shades-of-purple" alt="GitHub Streak" /></a>
 </div>
 
 ---
