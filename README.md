@@ -1,12 +1,12 @@
-# 💻 Victor Kiss | Software Engineer & Security Enthusiast
+# 💻 Victor Kiss | Software Engineer & Product Specialist
 
 ---
 
 ## 🌟 Perfil Profissional
 
-Sou um **Software Engineer** focado na interseção entre design de alta fidelidade e engenharia de sistemas resilientes. Atualmente, na **Secretaria Municipal de Urbanismo e Licenciamento (SMUL)**, atuo na vanguarda da modernização digital, transformando fluxos governamentais complexos em arquiteturas ágeis e seguras.
+Sou um **Software Engineer** focado na interseção entre design de alta fidelidade, performance bruta e sistemas resilientes. Atualmente, na **Casa Civil do Estado de São Paulo**, atuo na modernização de infraestruturas de dados e automação de processos críticos, transformando fluxos governamentais complexos em produtos digitais ágeis e seguros.
 
-Minha abordagem une a fluidez do ecossistema **JavaScript (React 18+ & Next.js)** com a robustez da **Segurança Ofensiva** e **Automação com Python**. Desenvolvo ferramentas de *data scraping* e automação de processos que otimizam operações institucionais críticas, sempre priorizando a integridade dos dados e métricas rigorosas de performance (**Core Web Vitals**).
+Minha abordagem de **Product Engineering** une o domínio do ecossistema **JavaScript/TypeScript** com a robustez do **Go (Golang)** no backend. Desenvolvo experiências imersivas (3D/Animações) sem comprometer a segurança, integrando um mindset de **Segurança Ofensiva** e auditoria forense em cada ciclo de entrega.
 
 ---
 
@@ -14,35 +14,34 @@ Minha abordagem une a fluidez do ecossistema **JavaScript (React 18+ & Next.js)*
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Core Front-end** | Next.js 14 (App Router), React 18, TypeScript, JavaScript (ES6+) |
-| **Styling & Animation** | Tailwind CSS, Framer Motion, GSAP (Complex Animations), Styled Components |
-| **Security & Automation** | **Offensive Security (AppSec)**, Python (Scripts & Scraping), Web Security Auditing |
-| **Backend & Infra** | Node.js, PostgreSQL, Golang, Git/GitHub, Vercel, CI/CD Pipelines |
-| **Environment** | Desenvolvimento nativo em **Linux Mint** 🐧 |
+| **Product & Front-end** | Next.js 14/15 (App Router), React 18+, TypeScript, Core Web Vitals |
+| **Creative Engineering** | React Three Fiber (Three.js), GSAP, Framer Motion, Tailwind CSS |
+| **Backend & Systems** | **Go (Golang)**, Node.js, PostgreSQL (pgx/v5), Python (Scraping/Automação) |
+| **Security & Infra** | AppSec, Auditoria Forense, Linux Mint 🐧, Docker, CI/CD |
 
 ---
 
 ## 🚀 Projetos de Engenharia em Destaque
 
-### 🛠️ [UrbSync](https://github.com/smdu-sp/extensao) | *Browser Automation & Security*
-> **Engenharia:** Desenvolvi um motor de orquestração e raspagem de dados para sistemas municipais (SEI e Aprova Digital).
-- **Desafio:** Centralizar dados fragmentados garantindo a segurança da sessão e integridade das informações.
-- **Impacto:** Adotado oficialmente pela SMUL; redução drástica de *human-error* e latência operacional.
-- **Techs:** JavaScript (DOM Manipulation), Chrome Extension API, JSON, Security Best Practices.
+### 🏛️ [UrbSync](https://github.com/smdu-sp/extensao) | *Automation & Public Sector Product*
+> Desenvolvi um motor de orquestração e raspagem de dados para os sistemas SEI e Aprova Digital.
+- **Desafio:** Centralizar fluxos fragmentados garantindo segurança de sessão e integridade de dados governamentais.
+- **Impacto:** Adotado oficialmente pela SMUL/Casa Civil; eliminação de erros operacionais e redução de latência.
+- **Techs:** Chrome Extension API, JavaScript, Engenharia Reversa de APIs.
 
-### 🧪 [Monster Pipeline Punch 3D](https://github.com/victor-kiss/monster-pipeline-punch-3d) | *High-Fidelity Engineering*
-- **Foco:** Renderização de alta performance e storytelling imersivo.
-- **Diferencial:** Otimização de assets 3D para manter o LCP (Largest Contentful Paint) abaixo de 2.5s.
-- **Techs:** React, React Three Fiber (Three.js), Framer Motion, GLSL Shaders.
+### 🧪 [Monster Pipeline Punch 3D](https://github.com/victor-kiss/monster-pipeline-punch-3d) | *High-Fidelity Product Design*
+- **Foco:** Storytelling imersivo e otimização de assets 3D para web.
+- **Diferencial:** Garantia de LCP (Largest Contentful Paint) inferior a 2.5s em cenas 3D complexas.
+- **Techs:** React Three Fiber, GLSL Shaders, Framer Motion.
+
+### 🛡️ Security & Forensic Labs | *Resilient Systems*
+- Realização de auditorias técnicas e relatórios de incidentes forenses em aplicações Next.js.
+- Pesquisa ativa em **Application Security (AppSec)** e automação de reconhecimento com Python.
+- Foco em construir produtos que já nascem imunes a vetores comuns de ataque.
 
 ### 💾 [Macintosh 128k](https://github.com/victor-kiss/Macintosh-128K-Experience) | *Retro-UI Systems*
-- **Conceito:** Engenharia reversa visual do System 1 (1984) utilizando arquitetura de componentes modernos.
-- **Foco:** Gerenciamento de estados complexos e fidelidade de interface (Pixel Perfect).
-- **Techs:** Next.js, TypeScript, Tailwind CSS.
-
-### 🛡️ Security Labs | *Research & Offensive Mindset*
-- Pesquisa ativa em **Application Security (AppSec)** e auditoria de vulnerabilidades.
-- Desenvolvimento de scripts em **Python** para reconhecimento e automação de tarefas de segurança.
+- **Conceito:** Engenharia reversa visual do System 1 (1984) com arquitetura de componentes moderna.
+- **Foco:** Gerenciamento de estados complexos e fidelidade "Pixel Perfect".
 
 ---
 
@@ -66,4 +65,9 @@ Minha abordagem une a fluidez do ecossistema **JavaScript (React 18+ & Next.js)*
   <a href="https://codepen.io/victor-kiss" target="blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
+</p>
+
+---
+<p align="center">
+  <sub>Desenvolvido com foco em performance e segurança em ambiente <b>Linux Mint 🐧</b></sub>
 </p>
