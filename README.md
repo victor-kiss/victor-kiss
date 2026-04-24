@@ -17,7 +17,7 @@ Minha abordagem de **Product Engineering** une o domínio do ecossistema **JavaS
 | **Product & Front-end** | Next.js 14/15 (App Router), React 18+, TypeScript, Core Web Vitals |
 | **Creative Engineering** | React Three Fiber (Three.js), GSAP, Framer Motion, Tailwind CSS |
 | **Backend & Systems** | **Go (Golang)**, Node.js, PostgreSQL (pgx/v5), Python (Scraping/Automação) |
-| **Security & Infra** | AppSec, Auditoria Forense, Linux Mint 🐧, Docker, CI/CD |
+| **Security & Infra** | AppSec, Auditoria Forense, Linux Mint, Docker, CI/CD |
 
 ---
 
