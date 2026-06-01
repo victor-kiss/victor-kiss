@@ -6,7 +6,7 @@
 
 Sou um **Software Engineer** focado na interseção entre design de alta fidelidade, performance bruta e sistemas resilientes. Atualmente, na **Casa Civil do Estado de São Paulo**, atuo na modernização de infraestruturas de dados e automação de processos críticos, transformando fluxos governamentais complexos em produtos digitais ágeis e seguros.
 
-Minha abordagem de **Product Engineering** une o domínio do ecossistema **JavaScript/TypeScript** com a robustez do **Go (Golang)** no backend. Desenvolvo experiências imersivas (3D/Animações) sem comprometer a segurança, integrando um mindset de **Segurança Ofensiva** e auditoria forense em cada ciclo de entrega.
+Minha abordagem de **Product Engineering** une o domínio do ecossistema **JavaScript/TypeScript** com a robustez do **Go (Golang)** no backend. Desenvolvo aplicações robustas integrando um mindset de **Segurança Ofensiva** e auditoria forense em cada ciclo de entrega.
 
 ---
 
@@ -26,7 +26,7 @@ Minha abordagem de **Product Engineering** une o domínio do ecossistema **JavaS
 ### 🏛️ [UrbSync](https://github.com/smdu-sp/extensao) | *Automation & Public Sector Product*
 > Desenvolvi um motor de orquestração e raspagem de dados para os sistemas SEI e Aprova Digital.
 - **Desafio:** Centralizar fluxos fragmentados garantindo segurança de sessão e integridade de dados governamentais.
-- **Impacto:** Adotado oficialmente pela SMUL/Casa Civil; eliminação de erros operacionais e redução de latência.
+- **Impacto:** Publicado no perfil oficial da SMUL no github e sendo utilizado em fluxos interno.
 - **Techs:** Chrome Extension API, JavaScript, Engenharia Reversa de APIs.
 
 ### 🧪 [Monster Pipeline Punch 3D](https://github.com/victor-kiss/monster-pipeline-punch-3d) | *High-Fidelity Product Design*
@@ -35,7 +35,7 @@ Minha abordagem de **Product Engineering** une o domínio do ecossistema **JavaS
 - **Techs:** React Three Fiber, GLSL Shaders, Framer Motion.
 
 ### 🛡️ Security & Forensic Labs | *Resilient Systems*
-- Realização de auditorias técnicas e relatórios de incidentes forenses em aplicações Next.js.
+- Realização de auditorias técnicas e relatórios de incidentes forenses em aplicações web.
 - Pesquisa ativa em **Application Security (AppSec)** e automação de reconhecimento com Python.
 - Foco em construir produtos que já nascem imunes a vetores comuns de ataque.
 
