@@ -67,9 +67,7 @@
       <br>
   </tr>
 </table>
-<br>
 <h2>Projetos de Engenharia em Destaque</h2>
-
 <table border="0" width="100%">
   <tr valign="top">
     <td width="50%">
