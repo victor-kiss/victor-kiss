@@ -23,7 +23,7 @@
   <div style="flex: 1 1 320px; min-width: 280px;">
     <h2>Perfil Profissional</h2>
     <p>
-      Sou um <b>Software Engineer & Cybersecurity Enthusiast</b> atuando na <b>Casa Civil-SP</b>. Trabalho na intersecção entre design de alta fidelidade, arquitetura de software resiliente e defesa em profundidade.
+      Sou um <b>Desenvolvedor Full Stack & entusiasta da cybersegurança</b> atuando na <b>Casa Civil do Estado de São Paulo</b>. Trabalho na intersecção entre design de alta fidelidade, arquitetura de software resiliente e defesa em profundidade.
     </p>
     <p>
       Minha atuação cobre desde o desenvolvimento full-stack moderno com <b>TypeScript</b>, <b>Python</b> e <b>Go</b> até a estruturação de ambientes seguros: <b>auditoria/análise forense de logs</b>, <b>mitigação de CVEs</b>, <b>hardening de containers/deploys</b> e aplicação das melhores práticas de <b>AppSec</b> desde o primeiro commit.
